@@ -1,4 +1,4 @@
-package services;
+package services.servlet;
 
 import entities.Student;
 import entities.Teacher;

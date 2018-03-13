@@ -1,4 +1,4 @@
-package services;
+package services.servlet;
 
 import manager.StudentManager;
 
